@@ -20,7 +20,7 @@
     font-weight: 900;
 }
 .text-gradient {
-    background: linear-gradient(45deg,#2190FF 2.34%,#b673f8 100.78%);
+    background: linear-gradient(45deg,#66b3ff 2.34%,#022979 100.78%);
     -webkit-background-clip: text;
     background-clip: text;
     -webkit-text-fill-color: transparent;
@@ -76,11 +76,12 @@ h2 {
 
 button {
     transition: all 0.5s ease-in-out;
-    font-size: 1em;
+    font-size: 1.5em;
     padding: 1em;
-    width: 100%;
-    border-radius: 5px;
+    width: 80%;
+    border-radius: 10px;
     margin-top: 10px;
+    caret-color: transparent;
 }
 
 
@@ -152,7 +153,7 @@ li {
 }
 
 .blue {
-    background-color: #2937a392;
+    background-color: #499ff092;
     position: absolute;
     top:0;
     left: 0;
@@ -164,7 +165,7 @@ li {
     animation: blobani 8s infinite ease;
 }
 .blue1 {
-    background-color: #2937a392;
+    background-color: #499ff092;
     position: absolute;
     top:0;
     left: 0;
